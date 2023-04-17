@@ -1,6 +1,6 @@
 # A Todo App
 
-This is a todo list App designed for Worshop.
+This is a Nandan todo list App designed for daily usage.
 
 NOTE: Rename the gitignore file name as .gitignore after you clone the repo to you local system.
 
